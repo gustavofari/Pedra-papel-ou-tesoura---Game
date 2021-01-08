@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedra, papel ou Tesoura</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Pedra, papel ou Tesoura</h1>
+    </header>
+    <main>
+        <div class="score-board">
+
+            <div id="user-label" class="name-score">Você</div>
+            <div id="computer-label" class="name-score">Comp</div>
+
+            <span id="user-score">0</span>:<span id="computer-score">0</span>
+        </div>
+
+        <div class="result">
+            <p>Experimente!</p>
+        </div>
+
+        <div class="choices">
+
+            <div class="choice-hand" id="rock">
+                <img src="/images/hand-closed.png" alt="rock">
+            </div>
+
+            <div class="choice-hand"  id="paper">
+                <img src="/images/hand-open.png" alt="paper">
+            </div>
+
+            <div class="choice-hand" id="scissors">
+                <img src="/images/hand-scissors.png" alt="scissors">
+            </div>
+
+            <p id="action-message">Faça sua escolha</p>
+        </div>
+
+        
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
