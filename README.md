@@ -4,7 +4,7 @@
 ![GitHub license](https://img.shields.io/github/license/GustavoFari/RPS-Game) 
 
 
-> Set of rock, paper and scissors.
+> Game of rock, paper and scissors.
 
 
 > Demo https://gustavofari.github.io/Meditation-app/
