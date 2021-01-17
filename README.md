@@ -7,4 +7,4 @@
 > Game of rock, paper and scissors.
 
 
-> Demo https://gustavofari.github.io/Meditation-app/
+> Demo https://gustavofari.github.io/RPS-Game/.
